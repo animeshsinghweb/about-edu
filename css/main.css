@@ -1,0 +1,19 @@
+* {
+    margin: 0 0;
+    padding: 0 0;
+}
+
+.hidden {
+    display: none;
+}
+
+.load {
+    margin-left: 50%;
+    position: absolute;
+    top: 300px;
+}
+
+.fix {
+    position: fixed;
+    top: 0px;
+}
